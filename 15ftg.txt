@@ -58,3 +58,5 @@ ImmersiveRailroading-1.16.5-forge-1.9.1.jar
 TrackAPI-1.16.4-forge-1.2.1.jar
 universalmodcore-1.16.5-forge-1.1.3.jar
 citadel-1.8.1-1.16.5.jar
+lazydfu-0.1.3.jar
+ferritecore-2.1.1-forge.jar
