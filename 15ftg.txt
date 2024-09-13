@@ -19,7 +19,6 @@ FarmersDelight-1.16.5-0.6.0.jar
 FluxNetworks-1.16.5-6.2.1.14.jar
 flywheel-1.16-0.2.5.jar
 geckolib-forge-1.16.5-3.0.106.jar
-ImmersiveEngineering-1.16.5-5.1.0-148.jar
 ironchest-1.16.5-11.2.21.jar
 jei-1.16.5-7.8.0.1009.jar
 Mantle-1.16.5-1.6.157.jar
@@ -43,7 +42,6 @@ thermal_locomotion-1.16.5-1.5.0.4.jar
 TravelersBackpack-1.16.5-5.4.51.jar
 twilightforest-1.16.5-4.0.870-universal.jar
 watut-forge-1.16.5-1.0.14.jar
-###Xaeros_Minimap_24.2.1_Forge_1.16.5.jar
 Essential-forge_1-16-5.jar
 journeymap-1.16.5-5.8.6.jar
 alexsmobs-1.12.1.jar
@@ -56,7 +54,9 @@ modernfix-forge-5.18.0+mc1.16.5.jar
 ImmersiveEngineering-1.16.5-5.0.6-141.jar
 ImmersiveRailroading-1.16.5-forge-1.9.1.jar
 TrackAPI-1.16.4-forge-1.2.1.jar
-universalmodcore-1.16.5-forge-1.1.3.jar
+UniversalModCore-1.16.5-forge-1.2.1.jar
 citadel-1.8.1-1.16.5.jar
 lazydfu-0.1.3.jar
 ferritecore-2.1.1-forge.jar
+cc-tweaked-1.16.5-1.101.3.jar
+WailaHarvestability-mc1.16.x-forge-1.1.15.jar
