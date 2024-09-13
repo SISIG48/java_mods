@@ -54,9 +54,10 @@ modernfix-forge-5.18.0+mc1.16.5.jar
 ImmersiveEngineering-1.16.5-5.0.6-141.jar
 ImmersiveRailroading-1.16.5-forge-1.9.1.jar
 TrackAPI-1.16.4-forge-1.2.1.jar
-UniversalModCore-1.16.5-forge-1.2.1.jar
+UniversalModCore-1.16.5-forge-1.1.3.jar
 citadel-1.8.1-1.16.5.jar
 lazydfu-0.1.3.jar
 ferritecore-2.1.1-forge.jar
 cc-tweaked-1.16.5-1.101.3.jar
 WailaHarvestability-mc1.16.x-forge-1.1.15.jar
+Hwyla-forge-1.10.11-B78_1.16.2.jar
