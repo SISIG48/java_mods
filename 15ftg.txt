@@ -61,3 +61,9 @@ ferritecore-2.1.1-forge.jar
 cc-tweaked-1.16.5-1.101.3.jar
 WailaHarvestability-mc1.16.x-forge-1.1.15.jar
 Hwyla-forge-1.10.11-B78_1.16.2.jar
+corpse-1.16.5-1.0.6.jar
+Botania-1.16.5-420.3.jar
+voicechat-forge-1.16.5-2.5.22.jar
+BetterAnimationsCollection-v1.2.4-1.16.5-Forge.jar
+ImmersivePetroleum-1.16.5-3.4.0-20.jar
+minecolonies-1.16.5-1.0.978-RELEASE.jar
