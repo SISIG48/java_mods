@@ -70,3 +70,4 @@ ImmersivePetroleum-1.16.5-3.4.0-13.jar
 PuzzlesLib-v1.0.15-1.16.5-Forge.jar
 Patchouli-1.16.4-48.jar
 structurize-1.16.5-1.0.418-ALPHA.jar
+mcw-doors-1.1.1forge-mc1.16.5.jar
