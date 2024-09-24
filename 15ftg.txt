@@ -65,5 +65,8 @@ corpse-1.16.5-1.0.6.jar
 Botania-1.16.5-420.3.jar
 voicechat-forge-1.16.5-2.5.22.jar
 BetterAnimationsCollection-v1.2.4-1.16.5-Forge.jar
-ImmersivePetroleum-1.16.5-3.4.0-20.jar
 minecolonies-1.16.5-1.0.978-RELEASE.jar
+ImmersivePetroleum-1.16.5-3.4.0-13.jar
+PuzzlesLib-v1.0.15-1.16.5-Forge.jar
+Patchouli-1.16.4-53.3.jar
+structurize-1.16.5-1.0.454-ALPHA.jar
