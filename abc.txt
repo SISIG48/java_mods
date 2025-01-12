@@ -32,3 +32,6 @@ architectury-1.32.68.jar
 cloth-config-4.16.91-forge.jar
 Placebo-1.16.5-4.7.0.jar
 rubidium-mc1.16.5-0.2.13.jar
+Hwyla-forge-1.10.11-B78_1.16.2.jar
+StorageDrawers-1.16.3-8.5.2.jar
+BlueMap-1.6.3-forge-1.16.4.jar
