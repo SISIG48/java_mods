@@ -41,7 +41,6 @@ thermal_locomotion-1.16.5-1.5.0.4.jar
 TravelersBackpack-1.16.5-5.4.51.jar
 twilightforest-1.16.5-4.0.870-universal.jar
 watut-forge-1.16.5-1.0.14.jar
-Essential-forge_1-16-5.jar
 journeymap-1.16.5-5.8.6.jar
 alexsmobs-1.12.1.jar
 guardvillagers-1.16.5.1.2.4.jar
