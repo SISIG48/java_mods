@@ -78,3 +78,4 @@ SereneSeasons-1.16.5-4.0.1.130-universal.jar
 TravelersTitles-1.16.4-1.5.jar
 cloth-config-4.16.91-forge.jar
 randompatches-2.4.4-forge.jar
+Essential_forge_1-16-5.jar
